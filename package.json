@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@zittertea/voluptatum-atque-similique-quidem",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,29 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/zittertea/voluptatum-atque-similique-quidem.git"
   },
   "dependencies": {
+    "@firantea/aliquam-dignissimos-impedit-illo": "^1.0.0",
+    "@firantea/aliquid-corrupti-cumque-veritatis": "^1.0.0",
+    "@firantea/fuga-reprehenderit-laudantium-officiis": "^1.0.0",
+    "@firantea/ipsa-aliquid-voluptates-laudantium": "^1.0.0",
+    "@firantea/iste-quisquam-laboriosam-magni": "^1.0.0",
+    "@firantea/modi-ducimus-eius-cumque": "^1.0.0",
+    "@firantea/molestiae-dolore-nostrum-eos": "^1.0.0",
+    "@firantea/natus-exercitationem-ullam-ipsum": "^1.0.0",
+    "@firantea/veritatis-quo-asperiores-veniam": "^1.0.0",
+    "@npmteasources/ex-quas-sapiente-facilis": "^1.0.0",
+    "@npmteasources/quasi-harum-excepturi-recusandae": "^1.0.0",
+    "@npmteasources/quia-repellat-commodi-inventore": "^1.0.0",
+    "@npmteasources/ratione-accusantium-laboriosam-at": "^1.0.0",
+    "@npmteasources/reprehenderit-assumenda-asperiores-neque": "^1.0.0",
+    "@npmteasources/rerum-eligendi-sunt-eos": "^1.0.0",
+    "@npmteasources/sapiente-natus-consequatur-odio": "^1.0.0",
+    "@npmteasources/voluptates-non-non-assumenda": "^1.0.0",
+    "@womhla6stea/dolore-aliquam-ratione-nemo": "^1.0.0",
+    "@womhla6stea/eius-non-ea-illo": "^1.0.0",
+    "@womhla6stea/quia-eius-unde-cum": "^1.0.0",
+    "@zittertea/aliquam-asperiores-veritatis-totam": "^1.0.0"
   }
 }
